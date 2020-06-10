@@ -18,3 +18,6 @@ Augment the data appropriately
 Have a probability to agument in different ways (in the pipeline somehow)
 Look up Img-aug library
 Look up Google collab
+
+Try drop, replace with previous row and custom loss function which calculates to 0
+MSE against test set from the competition
